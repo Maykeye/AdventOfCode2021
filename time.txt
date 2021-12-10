@@ -1,0 +1,20 @@
+t1: 5 minutes. 2nd try. stupid mistake lead to error by one >!forgot str -> int!<
+t1p2: 3 minutes, 1st try
+t2: 3 minutes, 1st try
+t2p2: 3 minutes, 1st try
+t3: 5 minutes, 1st try
+t3p2: 9 minutes, 1st try
+t4: 12 minutes, 1st
+t4p2: 12 minutes, 1st try, brainfart
+t5: 13 minutes, 1st
+t5p2: 1 minutes, 1st (was done from the beginning)
+t6: 5 minutes (surprised solving it in naive way was fast enough even in python)
+t6p2: 8 minutes
+t7: 6 minute
+t7p2 12 minutes
+t8: 107 minute
+t9: 12 minute
+t9p2: 26 minute
+BANGER
+Time Has Come by Stack
+【東方神霊廟】 邪符「ハオシャオグイ」 『凋叶棕』【Subbed】
